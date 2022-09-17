@@ -6,7 +6,7 @@
 
  Projeto construído no evento Next Level Week da Rocketseat
 
- [Clique aqui para acessar] (https://Will-G-Comnisky.github.io/NLW-eSports) 
+ [Clique aqui para acessar] (https://williamgispielacomnisky.github.io/NLW-eSports) 
 
  ## Tecnologias
  - HTML
